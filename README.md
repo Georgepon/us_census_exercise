@@ -2,8 +2,8 @@
 
 This repo contains all the files that comprise the deliverable for the US Census exercise.
 
-### The main notebook [dataiku_take_home_exercise.ipynb](dataiku_take_home_exercise.ipynb)
-The main notebook contains the code for all the steps of this exercise. The code is split into sections, as follows: 
+## The main notebook
+The main notebook ([dataiku_take_home_exercise.ipynb](dataiku_take_home_exercise.ipynb)) contains the code for all the steps of this exercise. The code is split into sections, as follows: 
 - Imports & Setup
 - Data Load & Initial Observations
 - Initial Data Exploration
@@ -15,5 +15,8 @@ The main notebook contains the code for all the steps of this exercise. The code
 - Next Steps
 - Appendix: Some additional, interactive visualisations
 
-At the start of each section, you can find some commentary and the main takeaways in the form of text and bullet points.
+At the start of each section, you can find some commentary and the main takeaways in the form of text and bullet points. 
+
+## The presentation
+A slide deck which contains the main points of the exercise, structured to be presented to an external stakeholder, can be found at 
 
