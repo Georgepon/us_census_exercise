@@ -18,5 +18,5 @@ The main notebook ([dataiku_take_home_exercise.ipynb](dataiku_take_home_exercise
 At the start of each section, you can find some commentary and the main takeaways in the form of text and bullet points. 
 
 ## The presentation
-A slide deck which contains the main points of the exercise, structured to be presented to an external stakeholder, can be found at 
+A slide deck which contains the main points of the exercise, structured to be presented to an external stakeholder, can be found at [census_exercise_presentation.pptx](census_exercise_presentation.pptx)
 
