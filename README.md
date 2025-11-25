@@ -20,4 +20,6 @@ The main notebook ([dataiku_take_home_exercise.ipynb](dataiku_take_home_exercise
 
 At the start of each section, you can find some commentary and the main takeaways in the form of text and bullet points. My suggestion is to also look at the notebook appendix right at the bottom, as it showcases a couple interesting dynamic graphs using plotly. 
 
-**The notebook also contains additional graphs and points of analysis that - as happens often in real life - never made it to the final slide deck.**
+**Note 1: ** The only section of the notebook that has been transformed into functions and contains a runner is the preprocessing section. The reason for this is mostly time constraints. With more time, I would split the rest of the code into functions within .py files and unit test them, then build the various pipelines and component tests. The repo would also take a more standard shape, with **src** and **tests** folders which would contain the code and tests respectively.
+
+**Note 2: ** The notebook also contains additional graphs and points of analysis that - as happens often in real life - never made it to the final slide deck.
